@@ -23,7 +23,7 @@ The analysis leverages **Python, Excel, and Power BI** to combine financial stat
    - 1-Year return consistency  
 5. **Top 30 Funds** – Extracted and validated final short list.  
 
-📂 [Excel Output – Top 30 Funds](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/top_30_mutual_funds.xlsx)  
+📂 [Excel Output – Top 30 Funds](https://github.com/DamnX9211/Mutual-Fund-Analysis/blob/main/top_30_mutual_funds.xlsx)  
 
 ---
 
@@ -31,7 +31,7 @@ The analysis leverages **Python, Excel, and Power BI** to combine financial stat
 Built an **interactive dashboard** to showcase investment patterns and insights.  
 
 🔗 [Dashboard File (.pbix)](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard.pbix)  
-🔗 [Preview](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png)  
+🔗 [Preview](https://github.com/DamnX9211/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png)  
 
 ### Dashboard Features
 - Fund filtering by type, AMC, risk, and rating  
