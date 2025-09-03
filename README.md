@@ -30,7 +30,7 @@ The analysis leverages **Python, Excel, and Power BI** to combine financial stat
 ## 📊 Power BI Dashboard
 Built an **interactive dashboard** to showcase investment patterns and insights.  
 
-🔗 [Dashboard File (.pbix)](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard.pbix)  
+🔗 [Dashboard File (.pbix)](https://github.com/DamnX9211/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard.pbix)  
 🔗 [Preview](https://github.com/DamnX9211/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png)  
 
 ### Dashboard Features
